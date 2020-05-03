@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=Ur1tzMDP97g&t=263s -- for entire reference
+https://www.ardumotive.com/how-to-use-a-voice-recognition-module.html -- for recording the audio
+<Commands>

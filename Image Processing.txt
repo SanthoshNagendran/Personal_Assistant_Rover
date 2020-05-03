@@ -1,0 +1,9 @@
+https://dronebotworkshop.com/pixy2-camera/
+https://resources.robokits.co.in/line-follower-robot-using-pixy2-arduino/
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:arduino_api
+
+https://robokits.download/downloads/pixy_linefollower_final.ino
+
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:line_api
+
+https://docs.pixycam.com/wiki/doku.php?id=wiki:v2:line_quickstart
